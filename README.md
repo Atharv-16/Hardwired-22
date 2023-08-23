@@ -48,5 +48,5 @@ The integration of ROS (Robot Operating System) plays a pivotal role in orchestr
 
 ## Future Prospects
 
-As technology continues to evolve, the project opens doors to future enhancements. Potential developments include multi-robot coordination, dynamic obstacle avoidance, and real-time interaction with the environment. By embracing emerging technologies, **Hardwired-22** has the potential to shape the future of automated animal tracking and interaction.
+As technology continues to evolve, the project opens doors to future enhancements. Potential developments include multi-robot coordination, dynamic obstacle avoidance, and real-time interaction with the environment. By embracing emerging technologies.
 
